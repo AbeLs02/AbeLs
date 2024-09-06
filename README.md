@@ -3,7 +3,7 @@ I'm a computer engineering student at Azarbaijan Shahid Madani University.<br>I'
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lsaeed_turkl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abolhasani-kaleybar-6a5451249) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/AbeLs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaeedAbeLs) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lsaeed_turkl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abolhasani-kaleybar-6a5451249) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23290786) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaeedAbeLs) 
 
 
 # 💻 Tech Stack:
